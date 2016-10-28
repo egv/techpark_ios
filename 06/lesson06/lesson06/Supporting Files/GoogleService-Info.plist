@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>672885892724-q9d6efluse46puj16abdjl8kd8teb9em.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.672885892724-q9d6efluse46puj16abdjl8kd8teb9em</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAk4pk0p_K8y4TredJb7is9oCLni_IsMG0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>672885892724</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.mail.lesson06</string>
+	<key>PROJECT_ID</key>
+	<string>lesson6-137f9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lesson6-137f9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:672885892724:ios:9f9c47cbafe27bd5</string>
+	<key>DATABASE_URL</key>
+	<string>https://lesson6-137f9.firebaseio.com</string>
+</dict>
+</plist>
